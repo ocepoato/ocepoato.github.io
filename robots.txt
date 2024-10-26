@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ocepoato.github.io/sitemap_index.ocepoato
